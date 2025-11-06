@@ -113,7 +113,7 @@ Nielsen, J. (1994). 10 Usability Heuristics for User Interface Design.
 Websites: BigBasket.com, Blinkit.com, JioMart.com
 
 ## Output:
-<img width="1536" height="1024" alt="ChatGPT Image Nov 6, 2025, 08_44_53 AM" src="https://github.com/user-attachments/assets/ce4f3475-e6f6-46c9-8eb9-0d5af450ce3d" />
+<img width="1024" height="1536" alt="ChatGPT Image Nov 6, 2025, 09_21_56 AM" src="https://github.com/user-attachments/assets/ed054190-ab99-4e07-be98-3f342f9defa3" />
 
 ## Result:
 Heuristic Evaluation of an Existing Website or App was Completed and verified.
